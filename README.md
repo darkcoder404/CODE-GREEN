@@ -3,6 +3,9 @@ It is a application based website which can be used to calculate the net Carbon 
 Other features include emission timelines, benchmarks and the emission equivalents.
 The application is compatible for all screen size and is hardware independent.
 
+# SLIDES
+https://www.canva.com/design/DAFQ3r1LAHs/re3Mm1sVp-YoQVPJIZA6Qg/edit
+
 # Language and Frameworks Used:
 
 <div align="center">
