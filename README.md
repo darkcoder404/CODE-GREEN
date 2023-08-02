@@ -1,7 +1,7 @@
 # CODE-GREEN
 It is a application based website which can be used to calculate the net Carbon Emissions of a code snippet and give detailed descriptions about its further optimization. Other features include emission timelines, benchmarks and the emission equivalents.
 Other features include emission timelines, benchmarks and the emission equivalents.
-The application is compatible for all screen size and is Hardware Independent.
+The application is compatible for all screen size and is hardware independent.
 
 # Language and Frameworks Used:
 
